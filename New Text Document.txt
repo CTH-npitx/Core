@@ -3,3 +3,4 @@
 3. go ask for help if needed
 	1. prefferably ask people on leve
 	2. ask boss who is a good idea to ask
+	3. as last resort ask the boss
