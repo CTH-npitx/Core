@@ -7,3 +7,4 @@ kind
 respectful
 understanding
 efficient
+sincere
