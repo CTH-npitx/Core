@@ -5,3 +5,4 @@ responsible
 honest
 kind
 respectful
+understanding
