@@ -1,4 +1,4 @@
 what impression:
 Leave positive impression
 	seem to be understanding? 
-kind, appear honest 
+kind, appear honest and helpful?
