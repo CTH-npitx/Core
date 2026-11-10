@@ -8,3 +8,4 @@ respectful
 understanding
 efficient
 sincere
+not-arrogant
