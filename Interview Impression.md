@@ -1,3 +1,4 @@
 what impression:
 Leave positive impression
-	seem to be understanding?
+	seem to be understanding? 
+kind
