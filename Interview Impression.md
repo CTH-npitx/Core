@@ -4,3 +4,4 @@ values:
 responsible
 honest
 kind
+respectful
